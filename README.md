@@ -53,4 +53,4 @@ Example content:<br>
 }
 ```
 doc- identification of a relevant<br>
-rank - relative index,
+rank - relative index
